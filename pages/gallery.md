@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: 사아지인
 subtitle: From the pexels folder
 permalink: /gallery/
 gallery_path: "assets/img/pexels"
