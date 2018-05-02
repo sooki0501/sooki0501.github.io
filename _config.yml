@@ -18,7 +18,7 @@ theme_settings:
      <p>찾아버렷다 이게 바뀌는것이다. <br> 케케케케케케케케케 </br> </p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a> 
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>배낌
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
